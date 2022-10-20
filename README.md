@@ -1,2 +1,4 @@
 # Overview
-This repository is 'amplify tutorial' on AWS Official Document.
+This repository is 'Amplify Tutorial for React' on AWS Official Document.
+
+https://docs.amplify.aws/start/q/integration/react/
